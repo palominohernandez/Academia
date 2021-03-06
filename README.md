@@ -33,4 +33,7 @@ El formato debe estar en la medida de lo posible basado en jupyter notebooks. Se
 - Instalación de Jupyter lab o Jupyter notebook en la computadora personal.
 - Instalación de un mínimo de librerías de Python junto con un interpretador de Python 3.
 
-[On Metadynamics](Academia/Metadynamics/Metadynamics_1.md)  
+[On Metadynamics.](Metadynamics/Metadynamics_1.md)  
+
+
+
