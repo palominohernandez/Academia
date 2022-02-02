@@ -3,8 +3,7 @@
 
 # Hi all!
 
-In this page, I would like to start writing some of the things I have suffered to learn in the academia. Mostly I will be focused on the theoretical aspect of stuff, rather than the operative one.
-
+In this page, I would like to start writing some of the things I have struggled to learn in molecular dynamics. Mostly I will be focused on the theoretical aspect of stuff, rather than the operative one.
 
 
 **[Idea](#Idea)** |
